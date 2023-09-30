@@ -1,0 +1,27 @@
+h1{
+    text-align: center;
+}
+
+.container-calc{
+    display: flex;
+    gap: 150px;
+    justify-content: center;
+    margin-top: 150px;
+}
+
+.peso,.altura{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.button{
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
+
+#resultado{
+    text-align: center;
+    margin-top: 100px;
+}
